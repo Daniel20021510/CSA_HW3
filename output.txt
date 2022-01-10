@@ -1,0 +1,10 @@
+Number of plants: 3
+
+0: Tree:name - jrdgjka, vowels per size = 0.14285714285714285, age 13
+1: Bush:name - df, vowels per size = 0.0, FloweringMonth.JANUARY
+2: Flower:name - fsf, vowels per size = 0.0, FlowerType.HOME
+Number of plants: 3
+
+0: Bush:name - df, vowels per size = 0.0, FloweringMonth.JANUARY
+1: Flower:name - fsf, vowels per size = 0.0, FlowerType.HOME
+2: Tree:name - jrdgjka, vowels per size = 0.14285714285714285, age 13
