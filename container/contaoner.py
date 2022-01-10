@@ -2,9 +2,6 @@ from objects.plant_classes import Plant
 
 
 class Container:
-    """
-        Array analogue.
-    """
     def __init__(self):
         self.container = list()
 

@@ -1,0 +1,27 @@
+Number of plants: 10
+
+0: Flower:name - etawfqd, vowels per size = 0.2857142857142857, FlowerType.HOME
+1: Bush:name - lffzfjvycspwrz, vowels per size = 0.07142857142857142, FloweringMonth.OCTOBER
+2: Tree:name - zgj, vowels per size = 0.0, age 505
+3: Tree:name - m, vowels per size = 0.0, age 838
+4: Flower:name - fmbtpmvohd, vowels per size = 0.1, FlowerType.WILD
+5: Tree:name - gznupfromvt, vowels per size = 0.18181818181818182, age 344
+6: Flower:name - nyjvpotr, vowels per size = 0.25, FlowerType.GARDEN
+7: Flower:name - yq, vowels per size = 0.5, FlowerType.HOME
+8: Flower:name - twd, vowels per size = 0.0, FlowerType.GARDEN
+9: Flower:name - iniwzkczfcqd, vowels per size = 0.16666666666666666, FlowerType.HOME
+
+==================== sort result ====================
+
+Number of plants: 10
+
+0: Tree:name - zgj, vowels per size = 0.0, age 505
+1: Tree:name - m, vowels per size = 0.0, age 838
+2: Flower:name - twd, vowels per size = 0.0, FlowerType.GARDEN
+3: Bush:name - lffzfjvycspwrz, vowels per size = 0.07142857142857142, FloweringMonth.OCTOBER
+4: Flower:name - fmbtpmvohd, vowels per size = 0.1, FlowerType.WILD
+5: Flower:name - iniwzkczfcqd, vowels per size = 0.16666666666666666, FlowerType.HOME
+6: Tree:name - gznupfromvt, vowels per size = 0.18181818181818182, age 344
+7: Flower:name - nyjvpotr, vowels per size = 0.25, FlowerType.GARDEN
+8: Flower:name - etawfqd, vowels per size = 0.2857142857142857, FlowerType.HOME
+9: Flower:name - yq, vowels per size = 0.5, FlowerType.HOME
