@@ -1,9 +1,0 @@
-Number of plants: 1
-
-0: Flower:name - simnyfc, vowels per size = 0.2857142857142857, FlowerType.GARDEN
-
-==================== sort result ====================
-
-Number of plants: 1
-
-0: Flower:name - simnyfc, vowels per size = 0.2857142857142857, FlowerType.GARDEN
